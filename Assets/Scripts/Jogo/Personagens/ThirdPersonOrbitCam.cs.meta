@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d6203566e3c12af49ae6f181087bf7f4
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - player: {instanceID: 0}
+  - TargetDorothy: {fileID: 407548, guid: 05b03879d6964504abaf817b6d43e124, type: 2}
+  - TargetToto: {instanceID: 0}
+  - TargetEspantalho: {instanceID: 0}
+  - TargetHomemLata: {instanceID: 0}
+  - crosshair: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 

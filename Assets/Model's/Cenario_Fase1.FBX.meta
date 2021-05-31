@@ -1,0 +1,193 @@
+fileFormatVersion: 2
+guid: 9a9034abcb8d2cd44adf8106d5bbec17
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: Arvore
+    100002: Base
+    100004: Base_Degrau
+    100006: Box001
+    100008: //RootNode
+    100010: Chao
+    100012: Chao Base
+    100014: Chao_Arado
+    100016: Chao_Arado001
+    100018: Chao_Arado_Seco
+    100020: Chao_Arado_Seco001
+    100022: Degraus
+    100024: Grama_cantero
+    100026: Gramado
+    100028: Janelas
+    100030: Paredes
+    100032: Passagem Porta
+    100034: personagem Caminho
+    100036: Por__o
+    100038: Porta
+    100040: Porta2
+    100042: tabuas
+    100044: Telhado_Frente
+    100046: Telhado_Superior
+    100048: Varanda
+    100050: Vidros
+    100052: Vigas
+    400000: Arvore
+    400002: Base
+    400004: Base_Degrau
+    400006: Box001
+    400008: //RootNode
+    400010: Chao
+    400012: Chao Base
+    400014: Chao_Arado
+    400016: Chao_Arado001
+    400018: Chao_Arado_Seco
+    400020: Chao_Arado_Seco001
+    400022: Degraus
+    400024: Grama_cantero
+    400026: Gramado
+    400028: Janelas
+    400030: Paredes
+    400032: Passagem Porta
+    400034: personagem Caminho
+    400036: Por__o
+    400038: Porta
+    400040: Porta2
+    400042: tabuas
+    400044: Telhado_Frente
+    400046: Telhado_Superior
+    400048: Varanda
+    400050: Vidros
+    400052: Vigas
+    2300000: Arvore
+    2300002: Base
+    2300004: Base_Degrau
+    2300006: Box001
+    2300008: Chao
+    2300010: Chao Base
+    2300012: Chao_Arado
+    2300014: Chao_Arado001
+    2300016: Chao_Arado_Seco
+    2300018: Chao_Arado_Seco001
+    2300020: Degraus
+    2300022: Grama_cantero
+    2300024: Gramado
+    2300026: Janelas
+    2300028: Paredes
+    2300030: Passagem Porta
+    2300032: personagem Caminho
+    2300034: Por__o
+    2300036: Porta
+    2300038: Porta2
+    2300040: tabuas
+    2300042: Telhado_Frente
+    2300044: Telhado_Superior
+    2300046: Varanda
+    2300048: Vidros
+    2300050: Vigas
+    3300000: Arvore
+    3300002: Base
+    3300004: Base_Degrau
+    3300006: Box001
+    3300008: Chao
+    3300010: Chao Base
+    3300012: Chao_Arado
+    3300014: Chao_Arado001
+    3300016: Chao_Arado_Seco
+    3300018: Chao_Arado_Seco001
+    3300020: Degraus
+    3300022: Grama_cantero
+    3300024: Gramado
+    3300026: Janelas
+    3300028: Paredes
+    3300030: Passagem Porta
+    3300032: personagem Caminho
+    3300034: Por__o
+    3300036: Porta
+    3300038: Porta2
+    3300040: tabuas
+    3300042: Telhado_Frente
+    3300044: Telhado_Superior
+    3300046: Varanda
+    3300048: Vidros
+    3300050: Vigas
+    4300000: Chao Base
+    4300002: Box001
+    4300004: Arvore
+    4300006: Base
+    4300008: Base_Degrau
+    4300010: Chao
+    4300012: Degraus
+    4300014: Janelas
+    4300016: Paredes
+    4300018: Por__o
+    4300020: Porta
+    4300022: Porta2
+    4300024: Telhado_Frente
+    4300026: Telhado_Superior
+    4300028: Varanda
+    4300030: Vidros
+    4300032: Vigas
+    4300034: tabuas
+    4300036: Chao_Arado
+    4300038: Chao_Arado_Seco
+    4300040: Passagem Porta
+    4300042: Gramado
+    4300044: Grama_cantero
+    4300046: personagem Caminho
+    4300048: Chao_Arado001
+    4300050: Chao_Arado_Seco001
+    7400000: Take 001
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .00999999978
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  additionalBone: 0
+  userData: 
